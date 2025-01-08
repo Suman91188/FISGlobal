@@ -1,0 +1,1 @@
+pytest -v --html=Reports\report.html testCases
